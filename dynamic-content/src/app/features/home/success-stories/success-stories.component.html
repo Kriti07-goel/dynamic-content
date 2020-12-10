@@ -1,0 +1,21 @@
+<div>
+  <div class="widget-title">
+    SUCCESS STORIES
+  </div>
+  <div *ngIf="stories?.length">
+    <div *ngFor="let s of stories"> 
+      <div class="center">
+        <img [src] ="s.image" height="58px">
+        <div class="font_style_name">
+          -{{s.name}}
+
+        </div>
+      </div>
+      <div class="content">
+        {{s.content}}
+      </div>
+    </div>
+
+  </div>
+
+</div>

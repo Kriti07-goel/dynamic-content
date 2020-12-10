@@ -1,0 +1,36 @@
+{
+  "grocery-list": [
+    {
+      "name": "sdf",
+      "id": 3
+    },
+    {
+      "name": "hello",
+      "id": 4
+    },
+    {
+      "name": "new vehicle",
+      "id": 5
+    }
+  ],
+  "success-story": [
+    {
+      "name": "KRITI GOEL, Angular Developer",
+      "id": 1,
+      "image": "assets/user2.jpg",
+      "content": "Little did Abigail Washburn know that her life would forever change after she went to a party where she heard a record of traditional folk and bluegrass singer and flatpicking guitar player, Doc Watson singing Shady Grove.  She had what Frans Johansson dubs a click moment.  "
+    },
+    {
+      "name": "INDRAJIT N, Business Analyst",
+      "id": 2,
+      "image": "assets/user1.png",
+      "content": "Little did Abigail Washburn know that her life would forever change after she went to a party where she heard a record of traditional folk and bluegrass singer and flatpicking guitar player, Doc Watson singing Shady Grove.  She had what Frans Johansson dubs a click moment.  "
+    },
+    {
+      "name": "SIMBA N, Pet",
+      "id": 3,
+      "image": "assets/user3.png",
+      "content": "Little did Abigail Washburn know that her life would forever change after she went to a party where she heard a record of traditional folk and bluegrass singer and flatpicking guitar player, Doc Watson singing Shady Grove.  She had what Frans Johansson dubs a click moment.  "
+    }
+  ]
+}
